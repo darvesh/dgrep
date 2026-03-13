@@ -1,0 +1,20 @@
+Hummingbird: Small birds known for their ability to fly backward and hover, with rapid wing beats that create a humming sound.
+Indian Peacock: Known for its striking blue and green plumage and the male's elaborate, eye-spotted tail feathers.
+Common Myna: A highly adaptable, intelligent brown bird often found near human settlements, known for mimicking sounds.
+Rose-ringed Parakeet: A bright green, social bird with a red beak, frequently kept as a pet for its ability to mimic human speech.
+House Sparrow: Small, brown-and-grey birds often seen in large groups, commonly found in urban areas and gardens.
+Crow: Highly intelligent black birds known for their complex problem-solving abilities and distinct "caw" sound.
+Kingfisher: Small, brightly colored birds that are skilled fish hunters, often found near water bodies.
+Penguin: Flightless, aquatic birds well-adapted to life in the Southern Hemisphere, known for their walking gait and swimming skills.
+Eagle: Powerful raptors with exceptional eyesight, known for hunting prey from high altitudes.
+Flamingo: Tall, pink wading birds that filter-feed on algae and shellfish, often resting on one leg.
+Owl: Nocturnal birds of prey with large eyes, specialized for hunting at night, and capable of turning their heads extensively.
+Woodpecker: Known for pecking holes in tree bark with their hard beaks to find insects, often featuring red markings.
+Pigeon: Common, urban-dwelling birds known for their navigation skills and often seen in flocks.
+Dove: Smaller, often white or soft-colored members of the pigeon family, symbolising peace.
+Canary: Small, typically yellow finches known for their singing ability.
+Albatross: Large seabirds with massive wingspans, capable of traveling long distances over the ocean.
+Seagull: Coastal birds with white or grey plumage, known for being adaptable scavengers.
+Duck: Aquatic birds with webbed feet, often found in both fresh and saltwater environments.
+Toucan: Tropical birds recognized by their large, colorful, lightweight beaks.
+Robin: Small birds easily identified by their red breasts, often seen searching for worms.
